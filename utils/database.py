@@ -6,14 +6,19 @@ import json
 # Database and Connection Setup
 # -----------------------------
 
+host = "your_mysql_host"       # e.g., "localhost"
+user = "your_mysql_username"   # e.g., "root"
+password = "your_mysql_password"
+
+
 def create_database():
     conn = None
     cursor = None
     try:
         conn = mysql.connector.connect(
-            host='localhost',
-            user='root',
-            password='PASSWORD'
+            host=host,
+            user=user,
+            password=password
         )
         cursor = conn.cursor()
         cursor.execute("CREATE DATABASE IF NOT EXISTS user_auth_db")
@@ -27,9 +32,9 @@ def create_database():
 
 def create_connection():
     return mysql.connector.connect(
-        host="localhost",
-        user="root",
-        password="PASSWORD",
+        host=host,
+        user=user,
+        password=password,
         database="user_auth_db"
     )
 
