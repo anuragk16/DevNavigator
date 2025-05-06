@@ -13,7 +13,7 @@ def create_database():
         conn = mysql.connector.connect(
             host='localhost',
             user='root',
-            password='63789'
+            password='PASSWORD'
         )
         cursor = conn.cursor()
         cursor.execute("CREATE DATABASE IF NOT EXISTS user_auth_db")
@@ -29,7 +29,7 @@ def create_connection():
     return mysql.connector.connect(
         host="localhost",
         user="root",
-        password="63789",
+        password="PASSWORD",
         database="user_auth_db"
     )
 
