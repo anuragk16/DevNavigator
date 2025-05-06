@@ -1,0 +1,45 @@
+{
+  "title": "🐍 Software Developer (Python)",
+  "description": "Roadmap to become a Software Developer using Python.",
+  "sections": [
+    {
+      "title": "1️⃣ Python Fundamentals 🐍",
+      "topics": [
+        {"name": "Python Basics", "url": "https://www.w3schools.com/python/"},
+        {"name": "Data Types and Variables", "url": "https://realpython.com/python-data-types/"},
+        {"name": "Control Structures", "url": "https://www.geeksforgeeks.org/python-conditional-statements/"},
+        {"name": "Functions and Modules", "url": "https://realpython.com/defining-your-own-python-function/"},
+        {"name": "Exception Handling", "url": "https://www.w3schools.com/python/python_try_except.asp"}
+      ]
+    },
+    {
+      "title": "2️⃣ OOP Concepts 🧠",
+      "topics": [
+        {"name": "Classes and Objects", "url": "https://realpython.com/python3-object-oriented-programming/"},
+        {"name": "Inheritance", "url": "https://www.geeksforgeeks.org/inheritance-in-python/"},
+        {"name": "Polymorphism", "url": "https://www.geeksforgeeks.org/polymorphism-in-python/"},
+        {"name": "Encapsulation", "url": "https://www.geeksforgeeks.org/encapsulation-in-python/"},
+        {"name": "Magic Methods", "url": "https://rszalski.github.io/magicmethods/"}
+      ]
+    },
+    {
+      "title": "3️⃣ Tools and Practices 🛠️",
+      "topics": [
+        {"name": "Git and GitHub", "url": "https://www.atlassian.com/git/tutorials"},
+        {"name": "Debugging", "url": "https://realpython.com/python-debugging-pdb/"},
+        {"name": "Unit Testing with PyTest", "url": "https://docs.pytest.org/en/7.1.x/"},
+        {"name": "Code Quality & Clean Code", "url": "https://realpython.com/tutorials/best-practices/"},
+        {"name": "Virtual Environments", "url": "https://realpython.com/python-virtual-environments-a-primer/"}
+      ]
+    },
+    {
+      "title": "4️⃣ Building and Deploying Projects 🚀",
+      "topics": [
+        {"name": "Agile & Scrum Basics", "url": "https://www.geeksforgeeks.org/agile-software-development/"},
+        {"name": "CI/CD", "url": "https://www.redhat.com/en/topics/devops/what-is-ci-cd"},
+        {"name": "Python Packaging", "url": "https://packaging.python.org/en/latest/tutorials/packaging-projects/"},
+        {"name": "Deployment with Docker", "url": "https://realpython.com/docker-python/"}
+      ]
+    }
+  ]
+}

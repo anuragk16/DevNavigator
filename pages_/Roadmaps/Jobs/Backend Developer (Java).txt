@@ -1,0 +1,46 @@
+{
+  "title": "⚙️ Backend Developer (Java)",
+  "description": "Roadmap to become a Backend Developer using Java.",
+  "sections": [
+    {
+      "title": "1️⃣ Core Java Basics ☕",
+      "topics": [
+        {"name": "Java Syntax & Data Types", "url": "https://www.w3schools.com/java/java_syntax.asp"},
+        {"name": "OOP in Java", "url": "https://www.geeksforgeeks.org/object-oriented-programming-oops-concept-in-java/"},
+        {"name": "Exception Handling", "url": "https://www.geeksforgeeks.org/exceptions-in-java/"},
+        {"name": "Collections Framework", "url": "https://www.geeksforgeeks.org/collections-in-java-2/"},
+        {"name": "Streams & Lambdas", "url": "https://www.baeldung.com/java-8-streams"}
+      ]
+    },
+    {
+      "title": "2️⃣ Java Web Development 🌐",
+      "topics": [
+        {"name": "Servlets & JSP", "url": "https://www.javatpoint.com/servlet-tutorial"},
+        {"name": "Spring Framework", "url": "https://spring.io/guides"},
+        {"name": "Spring Boot", "url": "https://spring.io/projects/spring-boot"},
+        {"name": "RESTful APIs", "url": "https://restfulapi.net/"},
+        {"name": "Authentication (JWT, OAuth2)", "url": "https://www.baeldung.com/spring-security-oauth-jwt"}
+      ]
+    },
+    {
+      "title": "3️⃣ Databases and ORM 🧩",
+      "topics": [
+        {"name": "SQL & JDBC", "url": "https://www.javatpoint.com/java-jdbc"},
+        {"name": "Hibernate ORM", "url": "https://hibernate.org/orm/documentation/"},
+        {"name": "MySQL/PostgreSQL", "url": "https://www.mysql.com/"},
+        {"name": "MongoDB with Java", "url": "https://www.baeldung.com/intro-to-mongodb-java"},
+        {"name": "Database Design", "url": "https://www.geeksforgeeks.org/database-design-process/"}
+      ]
+    },
+    {
+      "title": "4️⃣ DevOps & Deployment ⚙️",
+      "topics": [
+        {"name": "Maven/Gradle", "url": "https://maven.apache.org/guides/getting-started/index.html"},
+        {"name": "Dockerize Spring Apps", "url": "https://www.baeldung.com/dockerizing-spring-boot-application"},
+        {"name": "CI/CD with Jenkins", "url": "https://www.jenkins.io/doc/"},
+        {"name": "Cloud Deployment (AWS/GCP)", "url": "https://docs.aws.amazon.com/"},
+        {"name": "Monitoring & Logging", "url": "https://www.baeldung.com/spring-boot-actuator"}
+      ]
+    }
+  ]
+}

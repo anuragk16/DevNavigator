@@ -1,0 +1,42 @@
+{
+  "title": "🤖 Automation Developer (Python)",
+  "description": "Roadmap to become an Automation Developer using Python.",
+  "sections": [
+    {
+      "title": "1️⃣ Python for Automation ⚙️",
+      "topics": [
+        {"name": "File Handling", "url": "https://realpython.com/read-write-files-python/"},
+        {"name": "OS and Sys Modules", "url": "https://docs.python.org/3/library/os.html"},
+        {"name": "DateTime Module", "url": "https://realpython.com/python-datetime/"},
+        {"name": "Exception Handling", "url": "https://realpython.com/python-exceptions/"}
+      ]
+    },
+    {
+      "title": "2️⃣ Web Automation 🌐",
+      "topics": [
+        {"name": "Selenium", "url": "https://selenium-python.readthedocs.io/"},
+        {"name": "BeautifulSoup", "url": "https://realpython.com/beautiful-soup-web-scraper-python/"},
+        {"name": "Requests Module", "url": "https://realpython.com/api-integration-in-python/"},
+        {"name": "Captcha Bypass", "url": "https://www.geeksforgeeks.org/captcha-solving-using-python/"}
+      ]
+    },
+    {
+      "title": "3️⃣ Desktop Automation 💻",
+      "topics": [
+        {"name": "PyAutoGUI", "url": "https://pyautogui.readthedocs.io/en/latest/"},
+        {"name": "OpenPyXL for Excel", "url": "https://realpython.com/openpyxl-excel-spreadsheets-python/"},
+        {"name": "PDF Handling", "url": "https://realpython.com/creating-modifying-pdf/"},
+        {"name": "Email Automation", "url": "https://realpython.com/python-send-email/"}
+      ]
+    },
+    {
+      "title": "4️⃣ Deployment & Scheduling 🗓️",
+      "topics": [
+        {"name": "Task Scheduler / Cron", "url": "https://www.geeksforgeeks.org/how-to-schedule-a-python-script/"},
+        {"name": "Creating Executables with PyInstaller", "url": "https://realpython.com/pyinstaller-python/"},
+        {"name": "Logging", "url": "https://realpython.com/python-logging/"},
+        {"name": "Notifications with win10toast", "url": "https://pypi.org/project/win10toast/"}
+      ]
+    }
+  ]
+}

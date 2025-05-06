@@ -1,0 +1,47 @@
+{
+  "title": "☕ Java",
+  "description": "This is a Java roadmap",
+  "sections": [
+    {
+      "title": "1️⃣ Java Basics 🧱",
+      "topics": [
+        {"name": "Introduction to Java", "url": "https://www.javatpoint.com/java-tutorial"},
+        {"name": "Data Types and Variables", "url": "https://www.geeksforgeeks.org/data-types-in-java/"},
+        {"name": "Operators in Java", "url": "https://www.javatpoint.com/operators-in-java"},
+        {"name": "Control Statements (if-else, switch, loops)", "url": "https://www.geeksforgeeks.org/control-statements-java/"},
+        {"name": "Methods in Java", "url": "https://www.javatpoint.com/methods-in-java"}
+      ]
+    },
+    {
+      "title": "2️⃣ OOP in Java 🧠",
+      "topics": [
+        {"name": "Classes and Objects", "url": "https://www.geeksforgeeks.org/classes-objects-java/"},
+        {"name": "Constructors", "url": "https://www.javatpoint.com/constructor"},
+        {"name": "Inheritance", "url": "https://www.geeksforgeeks.org/inheritance-in-java/"},
+        {"name": "Polymorphism", "url": "https://www.geeksforgeeks.org/polymorphism-in-java/"},
+        {"name": "Encapsulation and Abstraction", "url": "https://www.javatpoint.com/encapsulation"},
+        {"name": "Interfaces", "url": "https://www.geeksforgeeks.org/interfaces-in-java/"}
+      ]
+    },
+    {
+      "title": "3️⃣ Advanced Concepts 🚀",
+      "topics": [
+        {"name": "Exception Handling", "url": "https://www.javatpoint.com/exception-handling-in-java"},
+        {"name": "Collections Framework", "url": "https://www.geeksforgeeks.org/collections-in-java-2/"},
+        {"name": "Multithreading and Concurrency", "url": "https://www.geeksforgeeks.org/multithreading-in-java/"},
+        {"name": "Java I/O Streams", "url": "https://www.javatpoint.com/java-io"},
+        {"name": "Lambda Expressions", "url": "https://www.geeksforgeeks.org/lambda-expressions-java-8/"}
+      ]
+    },
+    {
+      "title": "4️⃣ Frameworks & Tools 🛠️",
+      "topics": [
+        {"name": "Spring Framework", "url": "https://spring.io/projects/spring-framework"},
+        {"name": "Hibernate ORM", "url": "https://hibernate.org/orm/"},
+        {"name": "Maven Build Tool", "url": "https://maven.apache.org/guides/index.html"},
+        {"name": "JUnit Testing", "url": "https://junit.org/junit5/docs/current/user-guide/"},
+        {"name": "JavaFX for GUI", "url": "https://openjfx.io/"}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "title": "👨‍💻 MERN Stack Developer",
+  "description": "Roadmap to become a MERN Stack Developer (MongoDB, Express.js, React, Node.js).",
+  "sections": [
+    {
+      "title": "1️⃣ Frontend (React.js) ⚛️",
+      "topics": [
+        {"name": "HTML, CSS, JavaScript", "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript"},
+        {"name": "React Basics", "url": "https://reactjs.org/docs/getting-started.html"},
+        {"name": "React Hooks", "url": "https://reactjs.org/docs/hooks-intro.html"},
+        {"name": "State Management", "url": "https://redux.js.org/introduction/getting-started"},
+        {"name": "React Router", "url": "https://reactrouter.com/en/main"}
+      ]
+    },
+    {
+      "title": "2️⃣ Backend (Node.js + Express.js) 🚀",
+      "topics": [
+        {"name": "Node.js Basics", "url": "https://nodejs.dev/learn"},
+        {"name": "Express.js Basics", "url": "https://expressjs.com/en/starter/installing.html"},
+        {"name": "REST APIs", "url": "https://restfulapi.net/"},
+        {"name": "Authentication (JWT)", "url": "https://jwt.io/introduction"},
+        {"name": "Middleware", "url": "https://expressjs.com/en/guide/using-middleware.html"}
+      ]
+    },
+    {
+      "title": "3️⃣ Database (MongoDB) 🍃",
+      "topics": [
+        {"name": "MongoDB Basics", "url": "https://www.mongodb.com/docs/manual/introduction/"},
+        {"name": "Mongoose ORM", "url": "https://mongoosejs.com/docs/guide.html"},
+        {"name": "CRUD Operations", "url": "https://www.mongodb.com/docs/manual/crud/"},
+        {"name": "MongoDB Atlas", "url": "https://www.mongodb.com/cloud/atlas"},
+        {"name": "Aggregation Framework", "url": "https://www.mongodb.com/docs/manual/aggregation/"}
+      ]
+    },
+    {
+      "title": "4️⃣ Full Stack & Deployment 🌐",
+      "topics": [
+        {"name": "Connecting Frontend & Backend", "url": "https://www.freecodecamp.org/news/connect-react-with-express/"},
+        {"name": "CORS and Environment Setup", "url": "https://expressjs.com/en/resources/middleware/cors.html"},
+        {"name": "Deployment with Vercel & Render", "url": "https://vercel.com/docs" },
+        {"name": "CI/CD with GitHub Actions", "url": "https://docs.github.com/en/actions"},
+        {"name": "Docker for MERN", "url": "https://www.section.io/engineering-education/dockerized-mern-app/"}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "title": "📊 Data Scientist ",
+  "description": "Roadmap to become a Data Scientist.",
+  "sections": [
+    {
+      "title": "1️⃣ Math & Stats 📊",
+      "topics": [
+        {"name": "Statistics Basics", "url": "https://www.khanacademy.org/math/statistics-probability"},
+        {"name": "Probability Theory", "url": "https://www.probabilitycourse.com/"},
+        {"name": "Linear Algebra", "url": "https://www.khanacademy.org/math/linear-algebra"},
+        {"name": "Calculus for ML", "url": "https://www.coursera.org/learn/machine-learning"}
+      ]
+    },
+    {
+      "title": "2️⃣ Data Analysis with Python 🐍",
+      "topics": [
+        {"name": "Pandas", "url": "https://pandas.pydata.org/docs/"},
+        {"name": "Matplotlib", "url": "https://matplotlib.org/stable/tutorials/index.html"},
+        {"name": "Seaborn", "url": "https://seaborn.pydata.org/"},
+        {"name": "EDA Techniques", "url": "https://realpython.com/pandas-python-explore-dataset/"}
+      ]
+    },
+    {
+      "title": "3️⃣ Machine Learning 🤖",
+      "topics": [
+        {"name": "Scikit-learn Basics", "url": "https://scikit-learn.org/stable/"},
+        {"name": "Supervised Learning", "url": "https://scikit-learn.org/stable/supervised_learning.html"},
+        {"name": "Unsupervised Learning", "url": "https://scikit-learn.org/stable/modules/clustering.html"},
+        {"name": "Model Evaluation", "url": "https://scikit-learn.org/stable/model_evaluation.html"}
+      ]
+    },
+    {
+      "title": "4️⃣ Deployment & Projects 🌐",
+      "topics": [
+        {"name": "Flask for ML Deployment", "url": "https://www.geeksforgeeks.org/deploy-machine-learning-model-using-flask/"},
+        {"name": "Streamlit", "url": "https://docs.streamlit.io/"},
+        {"name": "Docker for ML", "url": "https://www.docker.com/resources/what-container/"},
+        {"name": "Portfolio Projects", "url": "https://github.com/topics/data-science-project"}
+      ]
+    }
+  ]
+}

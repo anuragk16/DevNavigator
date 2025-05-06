@@ -1,0 +1,37 @@
+{
+  "title": "🌐 Website Clone using HTML, CSS & JavaScript",
+  "description": "Learn how to clone a real website using HTML for structure, CSS for styling, and JavaScript for interactivity, then host it online.",
+  "sections": [
+    {
+      "title": "1️⃣ HTML & Structure 🧱",
+      "topics": [
+        {"name": "HTML Basics", "url": "https://www.w3schools.com/html/"},
+        {"name": "HTML Forms", "url": "https://www.geeksforgeeks.org/html-forms/"},
+        {"name": "HTML Semantic Tags", "url": "https://developer.mozilla.org/en-US/docs/Glossary/Semantics#semantic_html"}
+      ]
+    },
+    {
+      "title": "2️⃣ CSS Styling 🎨",
+      "topics": [
+        {"name": "CSS Basics", "url": "https://www.w3schools.com/css/"},
+        {"name": "Flexbox and Grid", "url": "https://css-tricks.com/snippets/css/a-guide-to-flexbox/"},
+        {"name": "Responsive Design", "url": "https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design"}
+      ]
+    },
+    {
+      "title": "3️⃣ JavaScript Interactivity ⚙️",
+      "topics": [
+        {"name": "JS Basics", "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide"},
+        {"name": "DOM Manipulation", "url": "https://www.javascripttutorial.net/javascript-dom/"},
+        {"name": "Event Handling", "url": "https://www.w3schools.com/js/js_events.asp"}
+      ]
+    },
+    {
+      "title": "4️⃣ Final Project Build 🚀",
+      "topics": [
+        {"name": "Clone a Website Layout", "url": "https://www.freecodecamp.org/news/how-to-clone-any-website/"},
+        {"name": "Host the Site on GitHub Pages", "url": "https://pages.github.com/"}
+      ]
+    }
+  ]
+}

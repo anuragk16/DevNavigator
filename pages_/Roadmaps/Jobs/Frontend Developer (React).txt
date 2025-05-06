@@ -1,0 +1,46 @@
+{
+  "title": "🎨 Frontend Developer (React.js)",
+  "description": "Roadmap to become a Frontend Developer using React.js.",
+  "sections": [
+    {
+      "title": "1️⃣ Web Fundamentals 🌐",
+      "topics": [
+        {"name": "HTML5", "url": "https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"},
+        {"name": "CSS3 (Flexbox, Grid)", "url": "https://css-tricks.com/snippets/css/complete-guide-grid/"},
+        {"name": "JavaScript (ES6+)", "url": "https://javascript.info/"},
+        {"name": "Responsive Design", "url": "https://www.w3schools.com/css/css_rwd_intro.asp"},
+        {"name": "DOM Manipulation", "url": "https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model"}
+      ]
+    },
+    {
+      "title": "2️⃣ React.js ⚛️",
+      "topics": [
+        {"name": "React Fundamentals", "url": "https://reactjs.org/docs/hello-world.html"},
+        {"name": "Hooks (useState, useEffect)", "url": "https://reactjs.org/docs/hooks-reference.html"},
+        {"name": "Component Lifecycle", "url": "https://legacy.reactjs.org/docs/react-component.html"},
+        {"name": "Forms in React", "url": "https://reactjs.org/docs/forms.html"},
+        {"name": "Routing with React Router", "url": "https://reactrouter.com/en/main"}
+      ]
+    },
+    {
+      "title": "3️⃣ State Management & Tools 🛠️",
+      "topics": [
+        {"name": "Redux", "url": "https://redux.js.org/"},
+        {"name": "Context API", "url": "https://reactjs.org/docs/context.html"},
+        {"name": "Styled Components", "url": "https://styled-components.com/"},
+        {"name": "Tailwind CSS", "url": "https://tailwindcss.com/docs"},
+        {"name": "Testing with Jest", "url": "https://jestjs.io/docs/getting-started"}
+      ]
+    },
+    {
+      "title": "4️⃣ Build & Deployment 🚀",
+      "topics": [
+        {"name": "Webpack & Babel", "url": "https://webpack.js.org/concepts/"},
+        {"name": "Performance Optimization", "url": "https://web.dev/performance-scoring/"},
+        {"name": "PWA Basics", "url": "https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps"},
+        {"name": "Hosting on Vercel/Netlify", "url": "https://vercel.com/docs"},
+        {"name": "CI/CD Basics", "url": "https://docs.github.com/en/actions"}
+      ]
+    }
+  ]
+}

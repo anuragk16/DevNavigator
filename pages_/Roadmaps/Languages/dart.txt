@@ -1,0 +1,32 @@
+{
+  "title": "🎯 Dart",
+  "description": "This is a Dart roadmap",
+  "sections": [
+    {
+      "title": "1. Dart Basics",
+      "topics": [
+        {"name": "Introduction to Dart", "url": "https://dart.dev/guides"},
+        {"name": "Variables and Data Types", "url": "https://dart.dev/language/variables"},
+        {"name": "Operators in Dart", "url": "https://dart.dev/language/operators"},
+        {"name": "Control Flow (if-else, loops)", "url": "https://dart.dev/language/control-flow"},
+        {"name": "Functions in Dart", "url": "https://dart.dev/language/functions"}
+      ]
+    },
+    {
+      "title": "2. Object-Oriented Programming in Dart",
+      "topics": [
+        {"name": "Classes and Objects", "url": "https://dart.dev/language/classes"},
+        {"name": "Constructors", "url": "https://dart.dev/language/constructors"},
+        {"name": "Inheritance", "url": "https://dart.dev/language/inheritance"},
+        {"name": "Mixins and Abstract Classes", "url": "https://dart.dev/language/mixins"}
+      ]
+    },
+    {
+      "title": "3. Asynchronous Programming",
+      "topics": [
+        {"name": "Futures and async/await", "url": "https://dart.dev/codelabs/async-await"},
+        {"name": "Streams", "url": "https://dart.dev/tutorials/language/streams"}
+      ]
+    }
+  ]
+}

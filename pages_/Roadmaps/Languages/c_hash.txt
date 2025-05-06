@@ -1,0 +1,35 @@
+{
+  "title": "🧩 C#",
+  "description": "This is a C# roadmap",
+  "sections": [
+    {
+      "title": "1. C# Basics",
+      "topics": [
+        {"name": "Introduction to C#", "url": "https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/"},
+        {"name": "Variables and Data Types", "url": "https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/built-in-types"},
+        {"name": "Operators in C#", "url": "https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/operators/"},
+        {"name": "Control Statements", "url": "https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/statements/selection-statements"},
+        {"name": "Methods", "url": "https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/methods"}
+      ]
+    },
+    {
+      "title": "2. Object-Oriented Programming in C#",
+      "topics": [
+        {"name": "Classes and Objects", "url": "https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/classes"},
+        {"name": "Constructors", "url": "https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/using-constructors"},
+        {"name": "Inheritance", "url": "https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/inheritance"},
+        {"name": "Polymorphism", "url": "https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/polymorphism"},
+        {"name": "Encapsulation and Interfaces", "url": "https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/interfaces/"}
+      ]
+    },
+    {
+      "title": "3. Advanced C# Concepts",
+      "topics": [
+        {"name": "LINQ", "url": "https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/"},
+        {"name": "Delegates and Events", "url": "https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/delegates/"},
+        {"name": "Asynchronous Programming (async/await)", "url": "https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/"},
+        {"name": "Exception Handling", "url": "https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/try-catch"}
+      ]
+    }
+  ]
+}

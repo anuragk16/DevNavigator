@@ -1,0 +1,45 @@
+{
+    "title": "📊 Learning Pandas in Python",
+    "description": "Mastering 🐒 Data Analysis with 💻 Python and 🔍 Pandas within the next 3 months.",
+    "sections": [
+        {
+            "title": "Section 1: 🚀 Getting Started with Pandas 🚀",
+            "topics": [
+                {
+                    "name": "📝 Writing Your First Pandas Code 📝",
+                    "url": "https://pandas.pydata.org/docs/user_guide/10min.html"
+                },
+                {
+                    "name": "👥 Setting Up Your Environment 👥",
+                    "url": "https://docs.oracle.com/cd/F37377_01/English/User_Guides/connecting_p6/10300301.htm"
+                }
+            ]
+        },
+        {
+            "title": "Section 2: 📊 Data Analysis with Pandas 📊",
+            "topics": [
+                {
+                    "name": "🔄 Handling Missing Data 🔄",
+                    "url": "https://www.geeksforgeeks.org/ml-handling-missing-values/"
+                },
+                {
+                    "name": "📈 GroupBy and Aggregation 📈",
+                    "url": "https://www.geeksforgeeks.org/grouping-and-aggregating-with-pandas/"
+                }
+            ]
+        },
+        {
+            "title": "Section 3: 💻 Advanced Pandas Topics 💻",
+            "topics": [
+                {
+                    "name": "🔍 Time Series Analysis 🔍",
+                    "url": "https://www.tableau.com/analytics/what-is-time-series-analysis"
+                },
+                {
+                    "name": "💡 Data Visualization with Matplotlib and Seaborn 💡",
+                    "url": "https://www.geeksforgeeks.org/data-visualisation-in-python-using-matplotlib-and-seaborn/"
+                }
+            ]
+        }
+    ]
+}

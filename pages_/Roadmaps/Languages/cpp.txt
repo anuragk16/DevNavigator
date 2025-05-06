@@ -1,0 +1,35 @@
+{
+  "title": "C➕➕",
+  "description": "This is a C++ roadmap",
+  "sections": [
+    {
+      "title": "1. C++ Basics",
+      "topics": [
+        {"name": "Introduction to C++", "url": "https://www.geeksforgeeks.org/c-plus-plus/"},
+        {"name": "Variables and Data Types", "url": "https://www.programiz.com/cpp-programming/variables"},
+        {"name": "Operators in C++", "url": "https://www.tutorialspoint.com/cplusplus/cpp_operators.htm"},
+        {"name": "Control Structures", "url": "https://www.geeksforgeeks.org/control-flow-statements-cpp/"},
+        {"name": "Functions", "url": "https://www.javatpoint.com/cpp-functions"}
+      ]
+    },
+    {
+      "title": "2. Object-Oriented Programming in C++",
+      "topics": [
+        {"name": "Classes and Objects", "url": "https://www.tutorialspoint.com/cplusplus/cpp_classes_objects.htm"},
+        {"name": "Constructors and Destructors", "url": "https://www.geeksforgeeks.org/constructors-cpp/"},
+        {"name": "Inheritance", "url": "https://www.programiz.com/cpp-programming/inheritance"},
+        {"name": "Polymorphism", "url": "https://www.geeksforgeeks.org/polymorphism-in-c/"},
+        {"name": "Encapsulation and Abstraction", "url": "https://www.geeksforgeeks.org/data-encapsulation-in-c/"}
+      ]
+    },
+    {
+      "title": "3. Advanced C++ Concepts",
+      "topics": [
+        {"name": "STL (Standard Template Library)", "url": "https://www.geeksforgeeks.org/the-c-standard-template-library-stl/"},
+        {"name": "Exception Handling", "url": "https://www.programiz.com/cpp-programming/try-catch-exceptions"},
+        {"name": "File Handling", "url": "https://www.tutorialspoint.com/cplusplus/cpp_files_streams.htm"},
+        {"name": "Lambda Functions", "url": "https://www.geeksforgeeks.org/lambda-expression-in-c/"}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "title": "🎓 Student Management System using Python",
+  "description": "A complete roadmap to build a GUI-based Student Management System using Python.",
+  "sections": [
+    {
+      "title": "1️⃣ Python GUI Basics 🖼️",
+      "topics": [
+        {"name": "Tkinter Introduction", "url": "https://www.geeksforgeeks.org/python-gui-tkinter/"},
+        {"name": "Tkinter Widgets", "url": "https://www.javatpoint.com/python-tkinter"},
+        {"name": "Layout Management", "url": "https://realpython.com/python-gui-tkinter/"}
+      ]
+    },
+    {
+      "title": "2️⃣ Data Management 🗂️",
+      "topics": [
+        {"name": "CRUD Operations in Python", "url": "https://www.geeksforgeeks.org/crud-operations-in-python/"},
+        {"name": "Working with SQLite", "url": "https://docs.python.org/3/library/sqlite3.html"}
+      ]
+    },
+    {
+      "title": "3️⃣ Integration & Testing 🔄🧪",
+      "topics": [
+        {"name": "Connecting GUI with Database", "url": "https://www.geeksforgeeks.org/python-mysql-database-connection/"},
+        {"name": "Testing Your App", "url": "https://realpython.com/python-testing/"},
+        {"name": "Error Handling", "url": "https://www.programiz.com/python-programming/exception-handling"}
+      ]
+    }
+  ]
+}

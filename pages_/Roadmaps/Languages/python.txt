@@ -1,0 +1,44 @@
+{
+  "title": "🐍 Python",
+  "description": "This is a Python roadmap",
+  "sections": [
+    {
+      "title": "1️⃣ Python Basics 🐍",
+      "topics": [
+        {"name": "Introduction to Python", "url": "https://www.w3schools.com/python/python_intro.asp"},
+        {"name": "Variables and Data Types", "url": "https://www.journaldev.com/232/python-variables"},
+        {"name": "Operators in Python", "url": "https://www.w3schools.com/python/python_operators.asp"},
+        {"name": "Control Flow (if-else, switch-case, loops)", "url": "https://www.geeksforgeeks.org/python-conditional-statements/"},
+        {"name": "Functions/Methods", "url": "https://www.javatpoint.com/functions-in-python"}
+      ]
+    },
+    {
+      "title": "2️⃣ OOP in Python 🧠",
+      "topics": [
+        {"name": "Classes and Objects", "url": "https://www.w3schools.com/python/python_classes.asp"},
+        {"name": "Constructors", "url": "https://www.geeksforgeeks.org/python-constructors/"},
+        {"name": "Inheritance", "url": "https://www.journaldev.com/1780/python-inheritance"},
+        {"name": "Polymorphism", "url": "https://www.geeksforgeeks.org/polymorphism-in-python/"},
+        {"name": "Encapsulation", "url": "https://www.geeksforgeeks.org/encapsulation-in-python/"}
+      ]
+    },
+    {
+      "title": "3️⃣ Advanced Python Concepts 🚀",
+      "topics": [
+        {"name": "Exception Handling", "url": "https://www.javatpoint.com/exceptions-in-python"},
+        {"name": "Collections in Python", "url": "https://www.journaldev.com/1543/python-collections"},
+        {"name": "Generators", "url": "https://www.geeksforgeeks.org/python-generators/"},
+        {"name": "Concurrency and Parallelism", "url": "https://realpython.com/python-concurrency/"}
+      ]
+    },
+    {
+      "title": "4️⃣ Python Libraries & Frameworks 📚",
+      "topics": [
+        {"name": "Flask Framework", "url": "https://flask.palletsprojects.com/en/2.0.x/"},
+        {"name": "Django Framework", "url": "https://docs.djangoproject.com/en/stable/"},
+        {"name": "Pandas Library", "url": "https://pandas.pydata.org/"},
+        {"name": "Matplotlib Library", "url": "https://matplotlib.org/"}
+      ]
+    }
+  ]
+}
