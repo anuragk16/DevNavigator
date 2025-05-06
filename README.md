@@ -33,7 +33,7 @@ DevNavigator is an intelligent assistant that helps users generate personalized 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/DevNavigator.git
+git clone https://github.com/anuragk16/DevNavigator.git
 cd DevNavigator
 ```
 
@@ -102,13 +102,18 @@ This will install Flask, LangChain, MySQL connectors, and other required librari
 Now, start the Flask server:
 
 ```bash
-python app.py
+python backend\chat.py
+```
+Then run the frontend:
+
+```bash
+python -m streamlit run main.py
 ```
 
-The server will run on:
+The server will automatically run in default browser or run on:
 
 ```
-http://localhost:5001/api/chat
+http://localhost:5001/
 ```
 
 You can send a `POST` request to this endpoint using tools like Postman, Thunder Client, or any frontend setup.
@@ -145,11 +150,3 @@ pages_/Roadmaps/others/<your_roadmap>.txt
 
 These files contain a well-structured, categorized roadmap with clickable links to learning resources.
 
----
-
-Need help or want to contribute? Feel free to raise an issue or submit a pull request 🚀
-
-```
-
-Let me know if you also want a badge-style heading section or if you want this to be split into separate setup and usage guides.
-```
