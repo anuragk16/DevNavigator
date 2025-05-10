@@ -100,31 +100,24 @@ def main_app():
                 DevNavigator is an AI-powered assistant that helps you plan, learn, and grow in tech — without the noise. It builds custom learning roadmaps, provides curated material, and helps you measure your progress with interactive tests and challenges.
                 </p>
                 <p>No coding tools. No app builders. Just pure learning, simplified.</p>
-                <h2>✨ Key Features</h2>
+                <h2>🚀 Key Features of DevNavigator</h2>
                 <ul>
-                    <li>📌 <b>Personalized Learning Roadmaps</b> — Clear, step-by-step guides tailored to your goals.</li>
-                    <li>📚 <b>Curated Learning Resources</b> — Handpicked content without the fluff.</li>
-                    <li>🧠 <b>AI-Generated Quizzes & Tests</b> — Smart assessments to challenge and track your knowledge.</li>
-                    <li>🎯 <b>Goal-Based Planning</b> — Get job-ready, portfolio-ready, or certification-ready.</li>
-                    <li>🌐 <b>One Hub for All Learning</b> — Everything organized in one place.</li>
+                    <li>🧭 <b>Customized Learning Roadmaps</b> — AI-generated step-by-step plans based on your specific career goals.</li>
+                    <li>📚 <b>Expert-Curated Resources</b> — Handpicked tutorials, courses, and articles to help you learn efficiently.</li>
+                    <li>🧠 <b>Smart Quizzes & Feedback</b> — Auto-generated tests to evaluate your knowledge and suggest improvements.</li>
+                    <li>🎯 <b>Goal-Oriented Planning</b> — Whether you're preparing for a job, building a portfolio, or earning a certification, we’ve got you covered.</li>
+                    <li>📂 <b>All-in-One Learning Hub</b> — Everything you need to learn, organized in one unified dashboard.</li>
                 </ul>
-                <h2>💡 Why Use DevNavigator?</h2>
+                <h2>💡 Why Choose DevNavigator?</h2>
                 <ul>
-                    <li>🔄 <b>Clarity Over Chaos</b> — No more YouTube rabbit holes. Learn with structure.</li>
-                    <li>⏱️ <b>Save Time</b> — We've done the research so you can start learning fast.</li>
-                    <li>🧭 <b>Built for All Levels</b> — From beginner to pro, your journey is covered.</li>
-                    <li>🧪 <b>Track Your Progress</b> — Real-time tracking with interactive assessments.</li>
+                    <li>✅ <b>Structured Learning</b> — Avoid information overload and learn with clarity and direction.</li>
+                    <li>⏳ <b>Save Time</b> — Skip the research. Our AI handles the planning, so you can start learning right away.</li>
+                    <li>👤 <b>Built for Everyone</b> — From beginners to professionals, we tailor the experience to your level.</li>
+                    <li>📈 <b>Progress Tracking</b> — Stay motivated with clear milestones and ongoing performance feedback.</li>
                 </ul>
-                <h2>🥇 Why DevNavigator Over Other Learning Platforms?</h2>
-                <table style="width: 100%; border-collapse: collapse;">
-                    <tr><th>Feature</th><th>DevNavigator</th><th>YouTube / Blogs</th><th>Online Courses</th></tr>
-                    <tr><td>Custom Roadmaps</td><td>✅ Yes</td><td>❌ No</td><td>❌ No</td></tr>
-                    <tr><td>AI-Generated Tests & Feedback</td><td>✅ Yes</td><td>❌ No</td><td>🔶 Sometimes</td></tr>
-                    <tr><td>All-in-One Learning Hub</td><td>✅ Yes</td><td>❌ No</td><td>❌ No</td></tr>
-                    <tr><td>Resource Curation by AI</td><td>✅ Yes</td><td>❌ No</td><td>🔶 Basic</td></tr>
-                    <tr><td>Adaptable to Career Goals</td><td>✅ Yes</td><td>❌ No</td><td>❌ No</td></tr>
-                </table>
-                <p><b>📌 DevNavigator doesn’t teach everything — it shows you the right path to learn any Technical.</b></p>
+                <p style="margin-top: 1rem; font-weight: bold;">
+                    🚨 DevNavigator doesn’t teach everything — it shows you the <u>right path</u> to learn anything technical with focus and clarity.
+                </p>
                 <div style="margin-top: 2rem;">
                     <a href="/?page=roadmaps" target="_self">
                         <div class="sidebar-button" style="width: 200px; margin: auto;">Explore Roadmaps</div>
